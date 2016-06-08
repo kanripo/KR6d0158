@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:06.689937
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:48
 #+TITLE: 十不二門指要鈔
 #+PROPERTY: CBETA_ID T46n1928
 #+PROPERTY: ID KR6d0158
@@ -14,7 +14,7 @@
 ¶
 No.1928[cf.No.1927]¶
 
-指要鈔序
+* 指要鈔序
 :PROPERTIES:
 :head: 指要鈔序
 :END:
